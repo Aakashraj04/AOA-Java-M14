@@ -18,7 +18,7 @@ Constraints:
 text1 and text2 consist of only lowercase English characters.
 
 ## Algorithm
-✅ **Procedure:**
+**Procedure:**
 
 1. **Input:**
 
@@ -54,8 +54,8 @@ text1 and text2 consist of only lowercase English characters.
 ```
 /*
 Program to implement Reverse a String
-Developed by: VINODINI R
-Register Number:  212223040244
+Developed by: Aakashraj M
+Register Number:  212222100002
 */
 import java.util.Scanner;
 
